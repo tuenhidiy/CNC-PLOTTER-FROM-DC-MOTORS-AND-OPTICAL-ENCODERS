@@ -9,3 +9,5 @@ https://www.youtube.com/watch?v=Qe13E-eHeJg
 
 The detail description is posted on Instructables website:
 
+https://www.instructables.com/id/3-AXIS-CNC-PLOTTER-FROM-DC-MOTORS-AND-OPTICAL-ENCO/
+
